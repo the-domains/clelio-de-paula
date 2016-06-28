@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Clelio de Paula]]></title>
+        <description><![CDATA[Clelio de Paula]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 28 Jun 2016 00:19:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MoLE]]></title>
+            <description><![CDATA[<article><h1>MoLE</h1><p>Instalação Interativa @Oi Futuro Flamengo</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3ee55a1ee3b54754293190a9dae9c60f/croprotate.jpg?cropheight=1368&cropwidth=2048&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fbcdb709d-2804-48aa-920e-3b0ee1d4f7d3.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcdb709d-2804-48aa-920e-3b0ee1d4f7d3.jpg</link>
+            <guid isPermaLink="false">f35815cf-96d3-4a34-b087-1ca6a0cbc296</guid>
+            <pubDate>Tue, 28 Jun 2016 00:19:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
