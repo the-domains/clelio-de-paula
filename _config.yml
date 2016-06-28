@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3046595
+  brandStrength: 0.5430108
+  lightness: 0
+  brandColors:
+    - '#0E0E0E'
+    - '#5C154D'
+    - '#1F251F'
+    - '#90177D'
+    - '#CE17AE'
+  rhythmicContrast: 0.5143369
+typography_spectrum: 0.6523297
+name: Clelio de Paula
